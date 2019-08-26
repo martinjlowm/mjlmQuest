@@ -1,0 +1,8 @@
+## Interface: 11302
+## Title: mjlmQuest
+## Author: martinjlowm
+## Version: 1.0
+## X-eMail: martin@martinjlowm.dk
+## Notes: Speed up your questing
+
+dist\main.lua
